@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependencies / builds (not used here, but safe)
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+.parcel-cache/
+
+# Env files
+.env
+.env.*
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+
+# Misc archives
+*.zip
+*.tar
+*.gz
